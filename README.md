@@ -25,10 +25,13 @@ Neste vídeo, o Mini-IDS monitoriza ativamente a interface de rede, detetando e 
 ---
 
 **Deteção de Inicialização HTTP num ambiente EJBCA:**
-![Deteção HTTP EJBCA](docs/terminal_ejbca_http_handshake.png)
+![Deteção HTTP EJBCA](docs/terminal_ejbca_http.png)
 
 **Análise de tentativas de conexão SSH (Com Certificado):**
 ![Deteção SSH com Certificado](docs/terminal_ssh_with_cert.png)
+
+**Análise de tentativas de conexão SSH (Sem Certificado):**
+![Deteção SSH sem Certificado](docs/terminal_ssh_without_cert.png)
 
 **Monitorização em tráfego misto (ARP, TCP e Telnet):**
 ![Deteção de Tráfego Misto](docs/terminal_arp_tcp_telnet_mixed.png)
