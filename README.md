@@ -20,7 +20,8 @@ A desconstrução dos pacotes (*parsing*) é feita mapeando diretamente as estru
 **Demonstração do Motor ao Vivo (Live Promiscuous Capture):**
 Neste vídeo, o Mini-IDS monitoriza ativamente a interface de rede, detetando e alertando para inícios de sessão TCP (SYN) em tempo real.
 
-<video src="docs/live_traffic_monitoring.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/afvcarvalho06/mini-ids-c/raw/main/docs/live_traffic_monitoring.mp4" controls="controls" width="100%"></video>
+
 
 **Deteção de Inicialização HTTP num ambiente EJBCA:**
 ![Deteção HTTP EJBCA](docs/terminal_ejbca_http.png)
